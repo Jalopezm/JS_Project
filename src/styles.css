@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #fb1988;
+}
+header{
+    background-color: black;
+}
+.logo{
+    display: grid;
+}
+.search-box{
+    display:grid ;
+}
+ul{
+list-style: none;
+display:grid;
+} 
+li{
+    margin: auto;
+}
+nav a{
+    text-decoration: none;
+}
+nav{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    padding: 20px;
+}
+.index{
+    grid-row: 1/1;
+    margin: auto;
+    padding: auto;
+}
+.events{
+    grid-row: 2/1;
+    margin: auto;
+    padding: auto;
+}
+.schedule{
+    grid-row: 3/1;
+    mmargin: auto;
+    padding: auto;
+}
+.prices{
+    grid-row: 4/1;
+    margin: auto;
+    padding: auto;
+}
+#search-form{
+    grid-row: 5/1;
+    margin: auto;
+    padding: auto;
+}
