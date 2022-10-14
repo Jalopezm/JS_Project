@@ -15,6 +15,7 @@ header {
 }
 .logo {
   display: grid;
+  margin: auto;
 }
 
 ul {
@@ -31,23 +32,19 @@ nav {
 }
 .topnav {
   overflow: hidden;
-  margin-top: auto;
-  margin-bottom: auto;
 }
 
 .topnav a {
+  display: flex;
   float: left;
-  display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
   font-size: 25px;
 }
-
-.topnav a:hover {
-  background-color: #ff2f95;
-  color: black;
+.active{
+  margin-top:50px ;
+  margin-left: 40px;
 }
 
 #menuToggle input {
@@ -59,6 +56,23 @@ nav {
   .logo {
     display: none;
     float: right;
+  }
+  .active{
+    margin-top:0px ;
+    margin-left: 0px;
+  }
+  
+  .topnav a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  .topnav a:hover {
+    background-color: #ff2f95;
+    color: black;
   }
   nav {
     display: grid;

@@ -18,6 +18,7 @@ header {
 }
 
 .logo {
+  margin: auto;
   display: grid;
 }
 
@@ -36,8 +37,6 @@ nav {
 }
 
 .topnav {
-  margin-top: auto;
-  margin-bottom: auto;
   overflow: hidden;
 }
 
@@ -45,15 +44,14 @@ nav {
   float: left;
   color: #000;
   text-align: center;
-  padding: 14px 16px;
   font-size: 25px;
   text-decoration: none;
-  display: block;
+  display: flex;
 }
 
-.topnav a:hover {
-  color: #000;
-  background-color: #ff2f95;
+.active {
+  margin-top: 50px;
+  margin-left: 40px;
 }
 
 #menuToggle input {
@@ -64,6 +62,25 @@ nav {
   .logo {
     float: right;
     display: none;
+  }
+
+  .active {
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  .topnav a {
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 25px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .topnav a:hover {
+    color: #000;
+    background-color: #ff2f95;
   }
 
   nav {
