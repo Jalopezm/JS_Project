@@ -2,165 +2,40 @@
   font-family: "Handmade";
   src: url(font/Handmade.otf);
 }
+
 * {
   padding: 0;
   margin: 0;
   font-family: "Handmade";
 }
+
 body {
-  background-color: black;
   background-image: url(img/fondo1.png);
   background-size: 300px;
+  background-color: black;
 }
+
 header {
   background-color: #fd017c;
 }
-.logo {
-  display: grid;
+
+.nav-item {
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+.d-block{
   margin: auto;
+  margin-top: 5%;
 }
-
-ul {
-  list-style: none;
-  display: grid;
-}
-li {
+.carousel-text{
+  text-align: left;
+  padding: 30px 32px;
   margin: auto;
-}
-
-nav {
-  display: grid;
-  grid-template-columns: auto auto auto auto auto auto;
-}
-.topnav {
-  overflow: hidden;
-}
-
-.topnav a {
-  display: flex;
-  float: left;
-  color: black;
   text-align: center;
-  text-decoration: none;
-  font-size: 25px;
+  text-shadow: 0px 4px 4px #000;
 }
-.active{
-  margin-top:50px ;
-  margin-left: 40px;
-}
-
-#menuToggle input {
-    display: none;
-}
-
-/** CSS PARA MOVIL**/
-@media screen and (max-width: 800px) {
-  .logo {
-    display: none;
-    float: right;
-  }
-  .active{
-    margin-top:0px ;
-    margin-left: 0px;
-  }
-  
-  .topnav a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 25px;
-  }
-  .topnav a:hover {
-    background-color: #ff2f95;
-    color: black;
-  }
-  nav {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
-  }
-  #menuToggle {
-    display: block;
-    position: relative;
-    margin :20px;
-    z-index: 1;
-  }
-
-  #menuToggle input {
-    display: block;
-    width: 40px;
-    height: 32px;
-    position: absolute;
-
-    cursor: pointer;
-
-    opacity: 0;
-    z-index: 2;
-  }
-
-  #menuToggle span {
-    display: block;
-    width: 33px;
-    height: 4px;
-    margin-bottom: 5px;
-    position: relative;
-
-    background: #cdcdcd;
-    border-radius: 3px;
-
-    z-index: 1;
-
-    transform-origin: 4px 0px;
-
-    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
-      background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
-  }
-
-  #menuToggle span:first-child {
-    transform-origin: 0% 0%;
-  }
-
-  #menuToggle span:nth-last-child(2) {
-    transform-origin: 0% 100%;
-  }
-
-  #menuToggle input:checked ~ span {
-    opacity: 1;
-    transform: rotate(45deg) translate(-2px, -1px);
-    background: #232323;
-  }
-
-  #menuToggle input:checked ~ span:nth-last-child(3) {
-    opacity: 0;
-    transform: rotate(0deg) scale(0.2, 0.2);
-  }
-
-  #menuToggle input:checked ~ span:nth-last-child(2) {
-    transform: rotate(-45deg) translate(0, -1px);
-  }
-
-  .topnav {
-    margin-top: auto;
-    margin-bottom: auto;
-    display: none;
-  }
-  
-  .topnav a {   
-    color: black;
-    text-decoration: none;
-    font-size: 25px;
-    text-align: center;
-  }
-
-  .topnav li {
-    font-size: 22px;
-  }
-  #menuToggle input:checked ~ .topnav {
-    display: grid;
-    text-align: center;
-    width: 100vw;
-    margin-left: -20px;
-    margin-bottom: -20px;
-  }
+.carousel-caption{
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 60%);
+  line-height: 6rem;
 }
