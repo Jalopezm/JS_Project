@@ -9,6 +9,8 @@
 }
 body {
   background-color: black;
+  background-image: url(img/fondo1.png);
+  background-size: 300px;
 }
 header {
   background-color: #fd017c;
