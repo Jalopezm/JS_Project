@@ -44,3 +44,41 @@ header {
   height: 100%;
   position:absolute;
 }
+.map-msg{
+  padding: 0.5%;
+  font-size: max(3vw,min(35px));
+  color: white; 
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+  text-shadow: 0px 4px 4px #fd017c;
+  background-color: black;
+  border-radius: 15px;
+  border: 2px solid white;
+  width: fit-content;
+}
+.map{
+  margin: 5%;
+height: 500px;
+}
+.video{
+  margin: 5%;
+  width: 900px;
+  height: 500px;
+}
+.entry-content{
+  color: white;
+  font-size: max(1.5vw,min(20px));
+}
+.page-title{
+  margin: 2%;
+  color: white;
+  text-shadow: 0px 4px 4px #fd017c;
+}
+#events{
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("img/fondo2.png");
+}
+#events p{
+  margin-left: 1%;
+  margin-right: 10%;
+}
