@@ -89,16 +89,21 @@ height: 500px;
 .menu-title{
   color: white;
 }
-.card img{
-  max-height: 300px;
-  max-width: 264.5px;
-  margin-left: auto;
-  margin-right: auto;
-}
 .card{
 text-align: center;
-background-color: #fd017c;
 }
 .card-body{
   background-color: white;
+}
+.card-text{
+  font-size: max(1.0vw,min(15px));
+}
+h5{
+  font-size: max(1.4vw,min(25px));
+}
+.row{
+  margin-right:0 ;
+}
+.col-md-4{
+  padding-right: 0;
 }

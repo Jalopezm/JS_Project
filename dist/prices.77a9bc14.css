@@ -104,20 +104,28 @@ header {
   color: #fff;
 }
 
-.card img {
-  max-height: 300px;
-  max-width: 264.5px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .card {
   text-align: center;
-  background-color: #fd017c;
 }
 
 .card-body {
   background-color: #fff;
+}
+
+.card-text {
+  font-size: max(1vw, 15px);
+}
+
+h5 {
+  font-size: max(1.4vw, 25px);
+}
+
+.row {
+  margin-right: 0;
+}
+
+.col-md-4 {
+  padding-right: 0;
 }
 
 /*# sourceMappingURL=prices.77a9bc14.css.map */
