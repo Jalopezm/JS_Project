@@ -86,12 +86,19 @@ height: 500px;
 #prices{
   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../img/fondo2.png");
 }
-.menu-img{
-  margin: 1%;
-  text-align: center;
+.menu-title{
+  color: white;
 }
-.menu-img img{
-  min-width: auto;
-max-width: 595px;
-max-height: auto;
+.card img{
+  max-height: 300px;
+  max-width: 264.5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card{
+text-align: center;
+background-color: #fd017c;
+}
+.card-body{
+  background-color: white;
 }
