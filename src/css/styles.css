@@ -107,3 +107,6 @@ h5{
 .col-md-4{
   padding-right: 0;
 }
+.col-md-4 img{
+  background-color: #fd017c;
+}
