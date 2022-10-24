@@ -87,13 +87,38 @@ header {
   margin: 2%;
 }
 
-#events {
+#events, #schedule {
   background-image: linear-gradient(#00000080, #00000080), url("fondo2.dbb71ab6.png");
 }
 
 #events p {
   margin-left: 1%;
   margin-right: 10%;
+}
+
+#schedule p, #schedule h4 {
+  margin-left: 1.5%;
+  margin-right: 10%;
+}
+
+.list-header {
+  text-shadow: 0 4px 4px #000;
+}
+
+#schedule div.horario {
+  background-color: #fd017cbf;
+  border: 3px solid #fff;
+  border-radius: 15px;
+  margin: 1%;
+  padding: .5%;
+}
+
+#schedule ul {
+  list-style: none;
+}
+
+#schedule div.horario li {
+  text-shadow: 0 4px 4px #000;
 }
 
 #prices {
@@ -122,6 +147,10 @@ h5 {
   margin-right: 0;
 }
 
+.col-md-4 {
+  padding-right: 0;
+}
+
 .col-md-4 img {
   background-color: #fd017c;
 }
@@ -136,9 +165,14 @@ h5 {
 }
 
 .col {
-  max-width: 30%;
-  min-width: 30%;
+  max-width: 40%;
+  min-width: 35%;
   margin-left: 1%;
+}
+
+p img {
+  max-width: 15%;
+  min-width: 50px;
 }
 
 /*# sourceMappingURL=prices.77a9bc14.css.map */
