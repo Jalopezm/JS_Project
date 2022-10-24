@@ -108,6 +108,9 @@ height: 500px;
 #prices{
   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../img/fondo2.png");
 }
+#contact{
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../img/fondo2.png");
+}
 .menu-title{
   color: white;
   margin: 1%;
@@ -146,4 +149,16 @@ h5{
 p img{
   max-width: 15%;
   min-width: 50px;
+}
+.containerForm{
+  margin-top: 3.4%;
+  border-radius: 15px;
+  padding: 2%;
+  border: 3px solid white;
+  background-color: rgba(253, 1, 124 ,0.75);
+  margin-bottom: 3.4%;
+}
+footer{
+  position: relative;
+  bottom: 0;
 }
