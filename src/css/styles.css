@@ -108,6 +108,9 @@ height: 500px;
 #prices{
   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../img/fondo2.png");
 }
+#contact{
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../img/fondo2.png");
+}
 .menu-title{
   color: white;
   margin: 1%;
@@ -123,29 +126,30 @@ h5{
   font-size: max(1.4vw,min(25px));
 }
 .row{
-  margin: 0;
-} 
+  margin-right:0 ;
+}
+.col-md-4{
+  padding-right: 0;
+}
 .col-md-4 img{
   background-color: #fd017c;
 }
-.col-12{
-  flex: 0 0 30%;
+.card-img-top{
+  width:100%;
+  height:auto;
 }
-.col{
-  flex: 0 0 30%;
-  margin-right: 10%;
-  margin-left: 5%;
-}
-
 .card{
   background-color: #fd017c;
-  width: 30vw;
+}
+.col{
+  margin-left: 1%;
+  max-width: 40%;
+  min-width: 35%;
 }
 p img{
   max-width: 15%;
   min-width: 50px;
 }
-<<<<<<< HEAD
 .containerForm{
   margin-top: 3.4%;
   border-radius: 15px;
@@ -161,27 +165,4 @@ label{
 footer{
   position: relative;
   bottom: 0;
-=======
-
-@media(max-width:600px){
-  .row {
-    margin: 0;
-  }
-  .col{
-    padding: 0;
-    margin: 0;
-  }
-  .card{
-    background-color: #fd017c;
-    width: 100vw;
-    height: 50vw;
-    height: auto;
-  }
-  .card-text{
-    font-size: max(1.0vw,min(25px));
-  }
-  h5{
-    font-size: max(1.4vw,min(35px));
-  }
->>>>>>> e8a8635965f503b47530e9dbd94fc734a8701e56
 }

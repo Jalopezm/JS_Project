@@ -144,57 +144,35 @@ h5 {
 }
 
 .row {
-  margin: 0;
+  margin-right: 0;
+}
+
+.col-md-4 {
+  padding-right: 0;
 }
 
 .col-md-4 img {
   background-color: #fd017c;
 }
 
-.col-12 {
-  flex: 0 0 30%;
-}
-
-.col {
-  flex: 0 0 30%;
-  margin-left: 5%;
-  margin-right: 10%;
+.card-img-top {
+  width: 100%;
+  height: auto;
 }
 
 .card {
-  width: 30vw;
   background-color: #fd017c;
+}
+
+.col {
+  max-width: 40%;
+  min-width: 35%;
+  margin-left: 1%;
 }
 
 p img {
   max-width: 15%;
   min-width: 50px;
-}
-
-@media (max-width: 600px) {
-  .row {
-    margin: 0;
-  }
-
-  .col {
-    margin: 0;
-    padding: 0;
-  }
-
-  .card {
-    width: 100vw;
-    height: 50vw;
-    height: auto;
-    background-color: #fd017c;
-  }
-
-  .card-text {
-    font-size: max(1vw, 25px);
-  }
-
-  h5 {
-    font-size: max(1.4vw, 35px);
-  }
 }
 
 /*# sourceMappingURL=prices.77a9bc14.css.map */
