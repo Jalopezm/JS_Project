@@ -121,7 +121,7 @@ header {
   text-shadow: 0 4px 4px #000;
 }
 
-#prices {
+#prices, #contact {
   background-image: linear-gradient(#00000080, #00000080), url("fondo2.dbb71ab6.png");
 }
 
@@ -173,6 +173,24 @@ h5 {
 p img {
   max-width: 15%;
   min-width: 50px;
+}
+
+.containerForm {
+  background-color: #fd017cbf;
+  border: 3px solid #fff;
+  border-radius: 15px;
+  margin-top: 3.4%;
+  margin-bottom: 3.4%;
+  padding: 2%;
+}
+
+label {
+  font-size: large;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
 }
 
 /*# sourceMappingURL=prices.77a9bc14.css.map */

@@ -1,35 +1,47 @@
-4227
-52/home/superior/Escriptori/JS_Project/src/events.html1666275223386079446 0
-51/home/superior/Escriptori/JS_Project/src/index.html1666275223398079522 0
+4260
+52/home/superior/Escriptori/JS_Project/src/events.html1673361775261551055 0
+51/home/superior/Escriptori/JS_Project/src/index.html1673361775261551055 0
 58/home/superior/Escriptori/JS_Project/src/font/Handmade.otf1666275223386079446 0
-54/home/superior/Escriptori/JS_Project/src/schedule.html1666275223398079522 0
+54/home/superior/Escriptori/JS_Project/src/schedule.html1673361775261551055 0
 53/home/superior/Escriptori/JS_Project/src/img/pene.png1666275223398079522 0
 72/home/superior/Escriptori/JS_Project/src/img/logoVergueriaDeMallorca.jpg1666275223398079522 0
+58/home/superior/Escriptori/JS_Project/src/img/vergoleta.png1666275536087541581 0
+58/home/superior/Escriptori/JS_Project/src/img/chocolate.png1666360674035749855 0
+57/home/superior/Escriptori/JS_Project/src/img/vergofre.png1666620066756574736 0
+55/home/superior/Escriptori/JS_Project/src/img/turron.png1666359918707473214 0
 58/home/superior/Escriptori/JS_Project/src/img/Menú-2.jpeg1666275223394079497 0
 62/home/superior/Escriptori/JS_Project/src/img/2-x-1-752x440.jpg1666275223390079471 0
 74/home/superior/Escriptori/JS_Project/src/img/viaje-aniversario-752x440.jpg1666275223398079522 0
 55/home/superior/Escriptori/JS_Project/src/img/fondo2.png1666275223398079522 0
+59/home/superior/Escriptori/JS_Project/src/img/chocholeta.png1666275536023541368 0
 57/home/superior/Escriptori/JS_Project/src/img/peneRosa.png1666275223398079522 0
 74/home/superior/Escriptori/JS_Project/src/img/viaje-aniversario-388x220.jpg1666275223398079522 0
 58/home/superior/Escriptori/JS_Project/src/img/Menú-1.jpeg1666275223394079497 0
+59/home/superior/Escriptori/JS_Project/src/img/glutenFree.png1666620549608482368 0
+57/home/superior/Escriptori/JS_Project/src/img/tetoleta.png1666275535971541193 0
 54/home/superior/Escriptori/JS_Project/src/img/vulva.png1666275223398079522 0
-44/home/superior/Escriptori/JS_Project/src/img1666275223398079522 1
-40/home/superior/Escriptori/JS_Project/src1666275223398079522 1
-68/home/superior/Escriptori/JS_Project/dist/JS_Project.59712999.js.map1666275340298736037 0
-53/home/superior/Escriptori/JS_Project/dist/events.html1666275340226735679 0
-61/home/superior/Escriptori/JS_Project/dist/fondo2.dbb71ab6.png1666275340266735878 0
-52/home/superior/Escriptori/JS_Project/dist/index.html1666275340222735659 0
-60/home/superior/Escriptori/JS_Project/dist/events.2cdd8007.js1666275340262735858 0
+44/home/superior/Escriptori/JS_Project/src/img1668523098869944988 1
+40/home/superior/Escriptori/JS_Project/src1673361778569570048 1
+68/home/superior/Escriptori/JS_Project/dist/JS_Project.59712999.js.map1666709340279222555 0
+53/home/superior/Escriptori/JS_Project/dist/events.html1673361778569570048 0
+64/home/superior/Escriptori/JS_Project/dist/chocolate.296de4ec.png1673360596793150696 0
+61/home/superior/Escriptori/JS_Project/dist/fondo2.dbb71ab6.png1666709340255222422 0
+52/home/superior/Escriptori/JS_Project/dist/index.html1673361778569570048 0
+61/home/superior/Escriptori/JS_Project/dist/contact.d25830f9.js1673360596769150833 0
+60/home/superior/Escriptori/JS_Project/dist/events.2cdd8007.js1666709340255222422 0
 64/home/superior/Escriptori/JS_Project/dist/vulvaRosa.7d5b6022.png1666275221274066113 0
+65/home/superior/Escriptori/JS_Project/dist/contact.d25830f9.js.map1673360596785150742 0
 63/home/superior/Escriptori/JS_Project/dist/peneRosa.6c37fc32.png1666275221270066087 0
-68/home/superior/Escriptori/JS_Project/dist/2-x-1-752x440.f32aa2ef.jpg1666275340270735898 0
-66/home/superior/Escriptori/JS_Project/dist/schedule.b2441d17.js.map1666275340298736037 0
-64/home/superior/Escriptori/JS_Project/dist/events.2cdd8007.js.map1666275340298736037 0
-80/home/superior/Escriptori/JS_Project/dist/viaje-aniversario-752x440.716a8ae3.jpg1666275340278735938 0
+68/home/superior/Escriptori/JS_Project/dist/2-x-1-752x440.f32aa2ef.jpg1666709340259222444 0
+66/home/superior/Escriptori/JS_Project/dist/schedule.b2441d17.js.map1666709340279222555 0
+64/home/superior/Escriptori/JS_Project/dist/events.2cdd8007.js.map1666709340279222555 0
+64/home/superior/Escriptori/JS_Project/dist/vergoleta.04c11de7.png1673360596773150810 0
+80/home/superior/Escriptori/JS_Project/dist/viaje-aniversario-752x440.716a8ae3.jpg1666709340267222488 0
 60/home/superior/Escriptori/JS_Project/dist/index.4d663569.css1666275221270066087 0
 64/home/superior/Escriptori/JS_Project/dist/Menú-1.6df4e148.jpeg1666275340314736117 0
-78/home/superior/Escriptori/JS_Project/dist/logoVergueriaDeMallorca.a02a5a0c.jpg1666275340266735878 0
-41/home/superior/Escriptori/JS_Project/dist1666275340314736117 1
+60/home/superior/Escriptori/JS_Project/dist/fresa.af102b4e.jpg1666359610011742456 0
+78/home/superior/Escriptori/JS_Project/dist/logoVergueriaDeMallorca.a02a5a0c.jpg1666709340255222422 0
+41/home/superior/Escriptori/JS_Project/dist1673361778801571376 1
 76/home/superior/Escriptori/JS_Project/node_modules/utility-types/CHANGELOG.md1666275223374079371 0
 94/home/superior/Escriptori/JS_Project/node_modules/utility-types/dist/aliases-and-guards.js.map1666275223374079371 0
 79/home/superior/Escriptori/JS_Project/node_modules/utility-types/dist/index.d.ts1666275223374079371 0
@@ -104,7 +116,7 @@
 82/home/superior/Escriptori/JS_Project/node_modules/node-gyp-build-optional-packages1666275223170078086 1
 77/home/superior/Escriptori/JS_Project/node_modules/regenerator-runtime/LICENSE1666275223322079043 0
 80/home/superior/Escriptori/JS_Project/node_modules/regenerator-runtime/runtime.js1666275223322079043 0
-83/home/superior/Escriptori/JS_Project/dist/despedida-de-soltero-752x440.165620f6.jpg1666275340270735898 0
+83/home/superior/Escriptori/JS_Project/dist/despedida-de-soltero-752x440.165620f6.jpg1666709340259222444 0
 77/home/superior/Escriptori/JS_Project/node_modules/regenerator-runtime/path.js1666275223322079043 0
 61/home/superior/Escriptori/JS_Project/node_modules/timsort/src1666275223366079320 1
 68/home/superior/Escriptori/JS_Project/node_modules/timsort/.npmignore1666275223366079320 0
@@ -115,7 +127,7 @@
 87/home/superior/Escriptori/JS_Project/node_modules/type-fest/source/merge-exclusive.d.ts1666275223370079345 0
 84/home/superior/Escriptori/JS_Project/node_modules/type-fest/source/package-json.d.ts1666275223370079345 0
 77/home/superior/Escriptori/JS_Project/node_modules/type-fest/source/basic.d.ts1666275223366079320 0
-65/home/superior/Escriptori/JS_Project/dist/prices.77a9bc14.css.map1666275340298736037 0
+65/home/superior/Escriptori/JS_Project/dist/prices.77a9bc14.css.map1673361778777571239 0
 80/home/superior/Escriptori/JS_Project/node_modules/type-fest/source/asyncify.d.ts1666275223366079320 0
 89/home/superior/Escriptori/JS_Project/node_modules/type-fest/source/async-return-type.d.ts1666275223366079320 0
 79/home/superior/Escriptori/JS_Project/node_modules/type-fest/source/entries.d.ts1666275223370079345 0
@@ -499,6 +511,7 @@
 88/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/css-sel3.js1666275222886076295 0
 95/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/intrinsic-width.js1666275222898076371 0
 94/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/pointer-events.js1666275222906076422 0
+58/home/superior/Escriptori/JS_Project/src/img/chochofre.png1666620078980572791 0
 103/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/document-evaluate-xpath.js1666275222890076321 0
 105/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/es6-module-dynamic-import.js1666275222894076346 0
 77/home/superior/Escriptori/JS_Project/node_modules/node-gyp-build/package.json1666275223170078086 0
@@ -551,6 +564,7 @@
 100/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/js-regexp-lookbehind.js1666275222902076397 0
 100/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/css-at-counter-style.js1666275222878076245 0
 97/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/css-logical-props.js1666275222882076270 0
+53/home/superior/Escriptori/JS_Project/src/contact.html1673361778569570048 0
 92/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/currentcolor.js1666275222890076321 0
 81/home/superior/Escriptori/JS_Project/node_modules/type-fest/source/utilities.d.ts1666275223370079345 0
 100/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/intersectionobserver.js1666275222898076371 0
@@ -628,6 +642,7 @@
 81/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/regions/FK.js1666275222926076548 0
 101/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/css-image-orientation.js1666275222882076270 0
 93/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/link-icon-svg.js1666275222902076397 0
+61/home/superior/Escriptori/JS_Project/dist/turron.f7c25789.png1673360596805150627 0
 95/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/abortcontroller.js1666275222870076195 0
 96/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/publickeypinning.js1666275222906076422 0
 102/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/declarative-shadow-dom.js1666275222890076321 0
@@ -670,6 +685,7 @@
 80/home/superior/Escriptori/JS_Project/node_modules/domutils/lib/manipulation.d.ts1666275222990076952 0
 79/home/superior/Escriptori/JS_Project/node_modules/domutils/lib/helpers.d.ts.map1666275222990076952 0
 75/home/superior/Escriptori/JS_Project/node_modules/domutils/lib/traversal.js1666275222990076952 0
+65/home/superior/Escriptori/JS_Project/dist/chocholeta.22921979.png1673360596773150810 0
 77/home/superior/Escriptori/JS_Project/node_modules/domutils/lib/traversal.d.ts1666275222990076952 0
 78/home/superior/Escriptori/JS_Project/node_modules/domutils/lib/legacy.d.ts.map1666275222990076952 0
 76/home/superior/Escriptori/JS_Project/node_modules/domutils/lib/querying.d.ts1666275222990076952 0
@@ -800,6 +816,7 @@
 108/home/superior/Escriptori/JS_Project/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/intro.doc1666275223118077758 0
 109/home/superior/Escriptori/JS_Project/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_stat.11666275223122077783 0
 109/home/superior/Escriptori/JS_Project/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_drop.11666275223122077783 0
+64/home/superior/Escriptori/JS_Project/dist/chochofre.e4a61627.png1673360596777150787 0
 104/home/superior/Escriptori/JS_Project/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb.c1666275223122077783 0
 90/home/superior/Escriptori/JS_Project/node_modules/lmdb/dependencies/lmdb-data-v1/libraries1666275223118077758 1
 81/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/regions/AL.js1666275222918076497 0
@@ -955,7 +972,7 @@
 102/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/lib/_object_without_properties_loose.js1666275222850076068 0
 79/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/lib/_inherits.js1666275222850076068 0
 83/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/lib/_ts_generator.js1666275222850076068 0
-64/home/superior/Escriptori/JS_Project/dist/prices.81b99949.js.map1666275340298736037 0
+64/home/superior/Escriptori/JS_Project/dist/prices.81b99949.js.map1666709340279222555 0
 83/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/lib/_create_super.js1666275222850076068 0
 78/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/lib/_type_of.js1666275222854076093 0
 74/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/lib/_jsx.js1666275222850076068 0
@@ -1008,7 +1025,7 @@
 68/home/superior/Escriptori/JS_Project/node_modules/term-size/index.js1666275223346079194 0
 68/home/superior/Escriptori/JS_Project/node_modules/lmdb/node-index.js1666275223138077884 0
 67/home/superior/Escriptori/JS_Project/node_modules/svgo/lib/types.ts1666275223338079144 0
-53/home/superior/Escriptori/JS_Project/dist/prices.html1666275340226735679 0
+53/home/superior/Escriptori/JS_Project/dist/prices.html1673361778569570048 0
 66/home/superior/Escriptori/JS_Project/node_modules/svgo/lib/svgo.js1666275223338079144 0
 72/home/superior/Escriptori/JS_Project/node_modules/svgo/lib/svgo/tools.js1666275223338079144 0
 72/home/superior/Escriptori/JS_Project/node_modules/svgo/lib/svgo/jsAPI.js1666275223338079144 0
@@ -1067,6 +1084,7 @@
 88/home/superior/Escriptori/JS_Project/node_modules/type-fest/source/conditional-pick.d.ts1666275223370079345 0
 94/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/css-dir-pseudo.js1666275222882076270 0
 82/home/superior/Escriptori/JS_Project/node_modules/svgo/plugins/_applyTransforms.js1666275223338079144 0
+66/home/superior/Escriptori/JS_Project/dist/vergoletaXL.9e55183f.png1673360596773150810 0
 88/home/superior/Escriptori/JS_Project/node_modules/svgo/plugins/convertEllipseToCircle.js1666275223342079169 0
 73/home/superior/Escriptori/JS_Project/node_modules/svgo/plugins/plugins.js1666275223342079169 0
 71/home/superior/Escriptori/JS_Project/node_modules/boolbase/package.json1666275222870076195 0
@@ -1164,6 +1182,7 @@
 86/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/syntax/node/Selector.js1666275222970076826 0
 97/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/syntax/node/PseudoClassSelector.js1666275222970076826 0
 81/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/syntax/node/Raw.js1666275222970076826 0
+63/home/superior/Escriptori/JS_Project/dist/vergofre.72329beb.png1673360596777150787 0
 87/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/syntax/node/Dimension.js1666275222970076826 0
 96/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/css-nth-child-of.js1666275222886076295 0
 74/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/syntax/node1666275222970076826 1
@@ -1206,7 +1225,7 @@
 71/home/superior/Escriptori/JS_Project/node_modules/@parcel/optimizer-css1666275221506067580 1
 112/home/superior/Escriptori/JS_Project/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/010-introduction.md1666275223010077078 0
 84/home/superior/Escriptori/JS_Project/node_modules/@parcel/graph/src/AdjacencyList.js1666275221486067453 0
-55/home/superior/Escriptori/JS_Project/src/css/styles.css1666275223386079446 0
+55/home/superior/Escriptori/JS_Project/src/css/styles.css1673361778573570072 0
 89/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/indexeddb.js1666275222898076371 0
 76/home/superior/Escriptori/JS_Project/node_modules/nth-check/lib/parse.js.map1666275223174078111 0
 76/home/superior/Escriptori/JS_Project/node_modules/@parcel/graph/src/index.js1666275221486067453 0
@@ -1265,6 +1284,7 @@
 68/home/superior/Escriptori/JS_Project/node_modules/commander/index.js1666275222950076700 0
 115/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main1666275221502067554 1
 123/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main/main.js1666275221502067554 0
+56/home/superior/Escriptori/JS_Project/src/img/lactosa.png1666621491588259768 0
 93/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/css-variables.js1666275222890076321 0
 138/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main-directory/package.json1666275221502067554 0
 75/home/superior/Escriptori/JS_Project/node_modules/@parcel/hash/package.json1666275221486067453 0
@@ -1359,6 +1379,7 @@
 66/home/superior/Escriptori/JS_Project/node_modules/svgo/lib/path.js1666275223338079144 0
 139/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-up/foo1666275221502067554 1
 121/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false1666275221502067554 1
+62/home/superior/Escriptori/JS_Project/dist/lactosa.f3c7100b.png1673360596773150810 0
 88/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/webauthn.js1666275222914076472 0
 77/home/superior/Escriptori/JS_Project/node_modules/domutils/lib/feeds.d.ts.map1666275222990076952 0
 127/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module/module.js1666275221502067554 0
@@ -1457,6 +1478,7 @@
 72/home/superior/Escriptori/JS_Project/node_modules/react-refresh/babel.js1666275223318079018 0
 99/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-image/lib/ImageTransformer.js1666275221614068263 0
 92/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-image/lib/loadSharp.js1666275221614068263 0
+64/home/superior/Escriptori/JS_Project/dist/vergofre.86e22787.jpeg1666619804152608512 0
 79/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-image/lib1666275221614068263 1
 70/home/superior/Escriptori/JS_Project/node_modules/browserslist/LICENSE1666275222870076195 0
 81/home/superior/Escriptori/JS_Project/node_modules/prettier/esm/parser-postcss.mjs1666275223210078338 0
@@ -1701,6 +1723,7 @@
 76/home/superior/Escriptori/JS_Project/node_modules/@parcel/types/package.json1666275222782075639 0
 81/home/superior/Escriptori/JS_Project/node_modules/@parcel/watcher/src/unix/fts.cc1666275222842076018 0
 86/home/superior/Escriptori/JS_Project/node_modules/@parcel/utils/test/sourcemap.test.js1666275222818075866 0
+54/home/superior/Escriptori/JS_Project/dist/contact.html1673361778801571376 0
 84/home/superior/Escriptori/JS_Project/node_modules/@parcel/utils/test/urlJoin.test.js1666275222818075866 0
 87/home/superior/Escriptori/JS_Project/node_modules/csso/lib/restructure/prepare/index.js1666275222982076902 0
 86/home/superior/Escriptori/JS_Project/node_modules/@parcel/diagnostic/src/diagnostic.js1666275221382066796 0
@@ -1791,7 +1814,7 @@
 83/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-image/LICENSE1666275221614068263 0
 73/home/superior/Escriptori/JS_Project/node_modules/@parcel/bundler-default1666275221330066467 1
 70/home/superior/Escriptori/JS_Project/node_modules/escape-string-regexp1666275223002077027 1
-36/home/superior/Escriptori/JS_Project1666275345518761909 1
+36/home/superior/Escriptori/JS_Project1666620146736561542 1
 87/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/imports.js1666275222898076371 0
 101/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/test/fixtures/custom-format-infer-type1666275221378066771 1
 110/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/test/fixtures/main-format-mismatch/package.json1666275221382066796 0
@@ -1813,7 +1836,7 @@
 81/home/superior/Escriptori/JS_Project/node_modules/@parcel/source-map/dist/wasm.js1666275221570067985 0
 63/home/superior/Escriptori/JS_Project/node_modules/acorn/LICENSE1666275222862076144 0
 66/home/superior/Escriptori/JS_Project/node_modules/css-tree/LICENSE1666275222958076750 0
-61/home/superior/Escriptori/JS_Project/dist/prices.77a9bc14.css1666275340262735858 0
+61/home/superior/Escriptori/JS_Project/dist/prices.77a9bc14.css1673361778773571217 0
 98/home/superior/Escriptori/JS_Project/node_modules/source-map-support/browser-source-map-support.js1666275223322079043 0
 69/home/superior/Escriptori/JS_Project/node_modules/path-type/readme.md1666275223178078137 0
 78/home/superior/Escriptori/JS_Project/node_modules/weak-lru-cache/tests/test.js1666275223374079371 0
@@ -1914,6 +1937,7 @@
 62/home/superior/Escriptori/JS_Project/node_modules/@parcel/hash1666275221494067504 1
 79/home/superior/Escriptori/JS_Project/node_modules/@parcel/workers/lib/Worker.js1666275222842076018 0
 135/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-up1666275221502067554 1
+54/home/superior/Escriptori/JS_Project/src/img/fresa.png1666360089907316424 0
 71/home/superior/Escriptori/JS_Project/node_modules/cosmiconfig/README.md1666275222950076700 0
 85/home/superior/Escriptori/JS_Project/node_modules/@parcel/runtime-js/lib/helpers/node1666275221566067959 1
 87/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/picture.js1666275222906076422 0
@@ -2085,11 +2109,13 @@
 77/home/superior/Escriptori/JS_Project/node_modules/dom-serializer/package.json1666275222986076927 0
 83/home/superior/Escriptori/JS_Project/node_modules/entities/lib/encode-trie.d.ts.map1666275222998077002 0
 74/home/superior/Escriptori/JS_Project/node_modules/nth-check/lib/index.d.ts1666275223174078111 0
+63/home/superior/Escriptori/JS_Project/dist/tetoleta.e9cbe2cb.png1673360596773150810 0
 76/home/superior/Escriptori/JS_Project/node_modules/source-map/source-map.d.ts1666275223330079093 0
 80/home/superior/Escriptori/JS_Project/node_modules/svgo/plugins/removeComments.js1666275223342079169 0
 104/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/test/fixtures/invalid-source-not-file/src1666275221378066771 1
 67/home/superior/Escriptori/JS_Project/node_modules/dotenv-expand/lib1666275222994076977 1
 75/home/superior/Escriptori/JS_Project/node_modules/yaml/browser/types/set.js1666275223382079421 0
+70/home/superior/Escriptori/JS_Project/dist/leche-merengada.768c929c.png1673360596793150696 0
 135/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/subfolder11666275221498067529 1
 54/home/superior/Escriptori/JS_Project/node_modules/.bin1666275221274066113 1
 86/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/webgl2.js1666275222918076497 0
@@ -2112,7 +2138,7 @@
 76/home/superior/Escriptori/JS_Project/node_modules/css-what/lib/es/index.d.ts1666275222974076851 0
 68/home/superior/Escriptori/JS_Project/node_modules/source-map-support1666275223322079043 1
 71/home/superior/Escriptori/JS_Project/node_modules/buffer-from/readme.md1666275222870076195 0
-61/home/superior/Escriptori/JS_Project/dist/fondo1.b8e04d3d.png1666275340298736037 0
+61/home/superior/Escriptori/JS_Project/dist/fondo1.b8e04d3d.png1666709340275222533 0
 79/home/superior/Escriptori/JS_Project/node_modules/msgpackr-extract/package.json1666275223150077960 0
 94/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/battery-status.js1666275222874076220 0
 78/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-posthtml1666275222778075614 1
@@ -2277,6 +2303,7 @@
 76/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-js/lib1666275221614068263 1
 119/home/superior/Escriptori/JS_Project/node_modules/@parcel/package-manager/test/fixtures/has-foo/subpackage/package.json1666275221534067757 0
 90/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/lib/public/PluginOptions.js1666275221366066695 0
+60/home/superior/Escriptori/JS_Project/src/img/vergoletaXL.png1666275535927541046 0
 82/home/superior/Escriptori/JS_Project/node_modules/svgo/plugins/removeEmptyAttrs.js1666275223342079169 0
 78/home/superior/Escriptori/JS_Project/node_modules/@parcel/workers/src/child.js1666275222846076043 0
 81/home/superior/Escriptori/JS_Project/node_modules/@parcel/runtime-js/package.json1666275221566067959 0
@@ -2291,6 +2318,7 @@
 95/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/background-sync.js1666275222874076220 0
 81/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-raw/LICENSE1666275222782075639 0
 75/home/superior/Escriptori/JS_Project/node_modules/supports-color/browser.js1666275223330079093 0
+67/home/superior/Escriptori/JS_Project/dist/fruta-pasion.6dc0d46a.png1666366912174842355 0
 80/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/lib1666275221498067529 1
 108/home/superior/Escriptori/JS_Project/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules1666275221534067757 1
 83/home/superior/Escriptori/JS_Project/node_modules/@parcel/reporter-cli/package.json1666275221546067833 0
@@ -2431,7 +2459,7 @@
 82/home/superior/Escriptori/JS_Project/node_modules/@parcel/packager-js/src/index.js1666275221542067807 0
 91/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/import-maps.js1666275222898076371 0
 77/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-raw/lib1666275222782075639 1
-55/home/superior/Escriptori/JS_Project/dist/schedule.html1666275340226735679 0
+55/home/superior/Escriptori/JS_Project/dist/schedule.html1673361778569570048 0
 115/home/superior/Escriptori/JS_Project/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi93.musl.node1666275221330066467 0
 79/home/superior/Escriptori/JS_Project/node_modules/ordered-binary/dist/index.cjs1666275223174078111 0
 94/home/superior/Escriptori/JS_Project/node_modules/@parcel/utils/test/input/sourcemap/inline.js1666275222814075841 0
@@ -2580,7 +2608,7 @@
 76/home/superior/Escriptori/JS_Project/node_modules/htmlnano/docs/netlify.toml1666275223002077027 0
 105/home/superior/Escriptori/JS_Project/node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.umd.js1666275221286066189 0
 106/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing1666275221378066771 1
-44/home/superior/Escriptori/JS_Project/src/css1666275223386079446 1
+44/home/superior/Escriptori/JS_Project/src/css1673361778573570072 1
 93/home/superior/Escriptori/JS_Project/node_modules/@parcel/fs-search/fs-search.darwin-x64.node1666275221406066948 0
 84/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/midi.js1666275222902076397 0
 89/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/lib/ParcelConfig.schema.js1666275221362066669 0
@@ -2893,7 +2921,7 @@
 99/home/superior/Escriptori/JS_Project/node_modules/@parcel/package-manager/src/NodePackageManager.js1666275221534067757 0
 71/home/superior/Escriptori/JS_Project/node_modules/base-x/src/index.d.ts1666275222866076169 0
 88/home/superior/Escriptori/JS_Project/node_modules/@jridgewell/sourcemap-codec/dist/types1666275221290066214 1
-64/home/superior/Escriptori/JS_Project/dist/JS_Project.59712999.js1666275340262735858 0
+64/home/superior/Escriptori/JS_Project/dist/JS_Project.59712999.js1666709340255222422 0
 125/home/superior/Escriptori/JS_Project/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/parcel_sourcemap_wasm.js1666275221606068212 0
 101/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/lib/_class_private_field_loose_base.js1666275222846076043 0
 124/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc-node-modules1666275221378066771 0
@@ -2909,7 +2937,7 @@
 83/home/superior/Escriptori/JS_Project/node_modules/mdn-data/css/syntaxes.schema.json1666275223150077960 0
 81/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/regions/SM.js1666275222942076649 0
 75/home/superior/Escriptori/JS_Project/node_modules/lightningcss/package.json1666275223114077733 0
-60/home/superior/Escriptori/JS_Project/dist/prices.81b99949.js1666275340262735858 0
+60/home/superior/Escriptori/JS_Project/dist/prices.81b99949.js1666709340255222422 0
 120/home/superior/Escriptori/JS_Project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested/baz.js1666275221498067529 0
 99/home/superior/Escriptori/JS_Project/node_modules/@parcel/transformer-babel/src/BabelTransformer.js1666275221614068263 0
 74/home/superior/Escriptori/JS_Project/node_modules/@parcel/packager-raw/src1666275221542067807 1
@@ -3075,6 +3103,7 @@
 88/home/superior/Escriptori/JS_Project/node_modules/@jridgewell/trace-mapping/package.json1666275221290066214 0
 76/home/superior/Escriptori/JS_Project/node_modules/@parcel/workers/lib/bus.js1666275222842076018 0
 95/home/superior/Escriptori/JS_Project/node_modules/@parcel/watcher/src/windows/WindowsBackend.cc1666275222842076018 0
+60/home/superior/Escriptori/JS_Project/dist/fresa.5381d6aa.png1673360596793150696 0
 81/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/regions/ST.js1666275222942076649 0
 59/home/superior/Escriptori/JS_Project/node_modules/lmdb/util1666275223146077935 1
 73/home/superior/Escriptori/JS_Project/node_modules/htmlnano/lib/helpers.js1666275223014077104 0
@@ -3454,6 +3483,7 @@
 80/home/superior/Escriptori/JS_Project/node_modules/lmdb/dependencies/lmdb-data-v11666275223118077758 1
 103/home/superior/Escriptori/JS_Project/node_modules/lmdb/node_modules/node-addon-api/package-support.json1666275223142077909 0
 78/home/superior/Escriptori/JS_Project/node_modules/color-convert/conversions.js1666275222950076700 0
+65/home/superior/Escriptori/JS_Project/dist/glutenFree.01a331bf.png1673360596773150810 0
 61/home/superior/Escriptori/JS_Project/node_modules/safe-buffer1666275223322079043 1
 72/home/superior/Escriptori/JS_Project/node_modules/commander/package.json1666275222950076700 0
 82/home/superior/Escriptori/JS_Project/node_modules/abortcontroller-polyfill/LICENSE1666275222862076144 0
@@ -3704,6 +3734,7 @@
 71/home/superior/Escriptori/JS_Project/node_modules/detect-libc/README.md1666275222986076927 0
 107/home/superior/Escriptori/JS_Project/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/050-modules.md1666275223010077078 0
 65/home/superior/Escriptori/JS_Project/node_modules/detect-libc/lib1666275222986076927 1
+54/home/superior/Escriptori/JS_Project/src/img/mango.png1666360132411277105 0
 83/home/superior/Escriptori/JS_Project/node_modules/@parcel/reporter-cli/src/utils.js1666275221546067833 0
 80/home/superior/Escriptori/JS_Project/node_modules/detect-libc/lib/detect-libc.js1666275222986076927 0
 91/home/superior/Escriptori/JS_Project/node_modules/@lmdb/lmdb-linux-x64/node.napi.glibc.node1666275221326066442 0
@@ -3750,7 +3781,7 @@
 72/home/superior/Escriptori/JS_Project/node_modules/htmlnano/.eslintignore1666275223002077027 0
 106/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/src/_class_apply_descriptor_destructure.mjs1666275222854076093 0
 84/home/superior/Escriptori/JS_Project/node_modules/htmlnano/docs/docusaurus.config.js1666275223002077027 0
-52/home/superior/Escriptori/JS_Project/src/prices.html1666275223398079522 0
+52/home/superior/Escriptori/JS_Project/src/prices.html1673361775261551055 0
 81/home/superior/Escriptori/JS_Project/node_modules/htmlnano/docs/docs/020-usage.md1666275223002077027 0
 82/home/superior/Escriptori/JS_Project/node_modules/htmlnano/docs/docs/030-config.md1666275223002077027 0
 101/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/test/fixtures/main-global/package.json1666275221382066796 0
@@ -3952,6 +3983,7 @@
 63/home/superior/Escriptori/JS_Project/node_modules/clone/LICENSE1666275222950076700 0
 81/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/regions/TJ.js1666275222942076649 0
 98/home/superior/Escriptori/JS_Project/node_modules/@jridgewell/resolve-uri/dist/resolve-uri.mjs.map1666275221282066163 0
+64/home/superior/Escriptori/JS_Project/src/img/leche-merengada.png1666361382780801677 0
 94/home/superior/Escriptori/JS_Project/node_modules/@jridgewell/resolve-uri/dist/resolve-uri.mjs1666275221282066163 0
 94/home/superior/Escriptori/JS_Project/node_modules/@swc/helpers/lib/_class_private_field_set.js1666275222846076043 0
 101/home/superior/Escriptori/JS_Project/node_modules/@jridgewell/resolve-uri/dist/types/resolve-uri.d.ts1666275221282066163 0
@@ -4187,7 +4219,7 @@
 96/home/superior/Escriptori/JS_Project/node_modules/@parcel/package-manager/test/fixtures/packages1666275221538067782 1
 67/home/superior/Escriptori/JS_Project/node_modules/stable/index.d.ts1666275223330079093 0
 92/home/superior/Escriptori/JS_Project/node_modules/posthtml/node_modules/posthtml-parser/dist1666275223182078161 1
-63/home/superior/Escriptori/JS_Project/dist/Handmade.57eac9ea.otf1666275340298736037 0
+63/home/superior/Escriptori/JS_Project/dist/Handmade.57eac9ea.otf1666709340275222533 0
 75/home/superior/Escriptori/JS_Project/node_modules/@parcel/core/src/requests1666275221374066745 1
 110/home/superior/Escriptori/JS_Project/node_modules/posthtml/node_modules/posthtml-parser/dist/chunk.2UQLUWPH.js1666275223182078161 0
 71/home/superior/Escriptori/JS_Project/node_modules/@jridgewell/set-array1666275221286066189 1
@@ -4210,12 +4242,13 @@
 121/home/superior/Escriptori/JS_Project/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo/index.js1666275221534067757 0
 69/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/walker1666275222974076851 1
 79/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/walker/create.js1666275222974076851 0
-62/home/superior/Escriptori/JS_Project/dist/schedule.b2441d17.js1666275340262735858 0
+62/home/superior/Escriptori/JS_Project/dist/schedule.b2441d17.js1666709340255222422 0
 89/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/definition-syntax/parse.js1666275222966076800 0
 96/home/superior/Escriptori/JS_Project/node_modules/caniuse-lite/data/features/mutationobserver.js1666275222906076422 0
 102/home/superior/Escriptori/JS_Project/node_modules/dom-serializer/node_modules/entities/lib/encode.d.ts1666275222986076927 0
 89/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/definition-syntax/index.js1666275222966076800 0
 93/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/definition-syntax/tokenizer.js1666275222966076800 0
+60/home/superior/Escriptori/JS_Project/dist/mango.1754bb8a.png1673360596805150627 0
 88/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/definition-syntax/walk.js1666275222966076800 0
 76/home/superior/Escriptori/JS_Project/node_modules/css-tree/lib/syntax/pseudo1666275222974076851 1
 81/home/superior/Escriptori/JS_Project/node_modules/@parcel/utils/src/DefaultMap.js1666275222810075816 0
